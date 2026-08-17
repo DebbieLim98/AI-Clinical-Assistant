@@ -1,0 +1,8 @@
+streamlit 
+openmed 
+requests 
+pypdf 
+pdfplumber 
+pillow 
+markdown 
+python-docx 
